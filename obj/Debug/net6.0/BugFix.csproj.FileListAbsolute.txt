@@ -1,0 +1,15 @@
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.csproj.AssemblyReference.cache
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.AssemblyInfoInputs.cache
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.AssemblyInfo.cs
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.csproj.CoreCompileInputs.cache
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\BugFix.exe
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\BugFix.deps.json
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\BugFix.runtimeconfig.json
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\BugFix.dll
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\ref\BugFix.dll
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\bin\Debug\net6.0\BugFix.pdb
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.dll
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\ref\BugFix.dll
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.pdb
+C:\Users\rudya.DESKTOP-864D378\Desktop\C#\Projet\Pratique\BugFix\obj\Debug\net6.0\BugFix.genruntimeconfig.cache
